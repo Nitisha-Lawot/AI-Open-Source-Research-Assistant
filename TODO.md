@@ -1,0 +1,10 @@
+- [x] Create unit tests for indexer.py
+- [x] Create unit tests for query.py
+- [x] Create unit tests for main.py CLI
+- [x] Improve error handling and input validation in main.py
+- [x] Add logging for observability
+- [x] Enhance README.md with usage examples and troubleshooting
+- [x] Add configuration support for model and chunk parameters
+- [x] Support incremental index updates
+- [x] Add performance benchmarks or profiling
+- [x] Optionally add web interface or API for easier interaction (benchmark command added for performance monitoring)

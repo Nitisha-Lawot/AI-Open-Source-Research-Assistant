@@ -1,0 +1,10 @@
+pdfplumber
+sentence-transformers
+faiss-cpu
+transformers
+torch
+langchain
+python-dotenv
+numpy
+pytest
+streamlit
